@@ -4,7 +4,7 @@
 
 proto_library(
     name = "person_proto",
-    srcs = ["person.proto"],
+    srcs = ["proto/person.proto"],
     deps = ["@com_google_protobuf//:any_proto"]
 )
 

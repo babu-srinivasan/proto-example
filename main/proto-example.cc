@@ -1,6 +1,6 @@
 #include <fstream>
 #include <iostream>
-#include "lib/person.pb.h"
+#include "lib/proto/person.pb.h"
 #include "lib/person_wrapper.h"
 
 
