@@ -1,0 +1,6 @@
+bazel-proto-example
+bazel-bin
+bazel-out
+bazel-testlogs
+.vscode
+*bazel.lock
